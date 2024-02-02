@@ -1,0 +1,83 @@
+.selectProduct{
+  width: 100px;
+}
+
+.CutomerDetails{
+  border: 1px solid blue;
+}
+
+.custDetails_1 h6{
+  font-size: 14px;
+}
+
+.custDate input{
+  margin-top: 8px;
+  font-size: 14px;
+  width: 100%;
+}
+
+.PaymentDetails{
+  border: 1px solid blue;
+
+}
+
+.remainAmnt{
+  margin-left: 100px;
+  margin-top: 5px;
+}
+
+.billDetail{
+  background-color: red;
+}
+
+.totalAmns{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.amnt{
+  font-size:30px;
+  margin-left: 140px;
+  font-weight: bold;
+}
+
+.footDisp{
+  margin-top: 20px;
+  margin-bottom: 50px;
+  margin-top: 100px;
+}
+
+.footFont{
+  
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.billPrint_1{
+  border: 1px solid black;
+}
+
+.tbillQty{
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 50px;
+}
+
+.tbill_bill{
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 60px;
+}
+
+.savedMoney{
+  margin-left: 135px;
+}
+
+.bill_thanku{
+  margin-left: 120px;
+}
+
+.BillPrintButton{
+  margin-left: 170px;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Khadi Sakhar",
+        "Price": 15,
+        "sale":10,
+       "qty":1
+    },
+    {
+        "name": "Amla Hair Oil",
+        "Price": 25,
+        "sale":25,
+        "qty":1
+    },
+    {
+        "name": "Soap",
+        "Price": 10,
+        "sale":10,
+        "qty":1
+    }
+]
